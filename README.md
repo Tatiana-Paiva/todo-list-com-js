@@ -19,5 +19,7 @@ Foram realizadas algumas alterações no CSS, no Background e paleta de cores, p
 
 Acompanhando projeto do Prof. Matheus Battisti;
 
+- Visualizar Projeto [Projeto Todo List](https://tatiana-paiva.github.io/todo-list-com-js/)
+
 
 
